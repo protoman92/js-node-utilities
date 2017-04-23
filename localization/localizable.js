@@ -1,5 +1,3 @@
-// @flow
-
 const strings = {
   // User strings
   userErrorDoesNotExist: 'userErrorDoesNotExist',
