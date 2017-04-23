@@ -1,0 +1,23 @@
+{
+  "name": "js-node-utilities",
+  "version": "1.0.0",
+  "description": "Collection of utility methods for personal use.",
+  "scripts": {
+    "test": "yarn test --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protoman92/jsutilities.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Hai Pham",
+  "license": "ISC",
+  "dependencies": {
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {
+    "faker": "^4.1.0"
+  }
+}
